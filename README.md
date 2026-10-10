@@ -7,7 +7,7 @@ This assignment implements a collection of fundamental **Digital Image Processin
 All implementations, experiments, visualizations, and results are available in the following Google Colab notebook:
 
 **Colab Notebook:**
-https://colab.research.google.com/drive/1mFMoRCCUJ8jQ1o_oIK5xs7QGbSxnPbNV?usp=sharing
+https://colab.research.google.com/drive/1oEK_DdRr0Sss6Wjs2eF_hZSdDtWmFd6j#scrollTo=9d679c0f
 
 ---
 
